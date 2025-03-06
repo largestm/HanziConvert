@@ -1,5 +1,5 @@
 <?php
-namespace app\utils\service;
+namespace service;
 
 /**
  * 所有汉字繁简体对照表
