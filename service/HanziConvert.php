@@ -1,5 +1,5 @@
 <?php
-namespace app\utils\service;
+namespace service;
 
 /**
  * 汉字转换，繁体转简体或简体转繁体
